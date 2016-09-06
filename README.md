@@ -57,3 +57,15 @@ function miFuncion() {
 ```
 
 ## Puntuación
+
+Si bien JavaScript hace omiso a los **;** en algunos casos, usaremos **;** al final de cada statement.
+
+```javascript
+var miVariable = "";
+
+miVariable = "Punto y coma siempre!";
+
+for (var i = 0; i < 10; i++) {
+    console.log("Punto y coma al final de cada statement!");
+}
+```
