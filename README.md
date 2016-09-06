@@ -10,6 +10,18 @@ Esta guía da a conocer los estándares y alineamientos para llevar un código o
   
 ## Nomenclatura
 
+En esta guía usaremos la convención **[camelCase](https://en.wikipedia.org/wiki/CamelCase)** para nombrar las variables y funciones.
+
+```javascript
+// Declaración de variables usando camelCase
+var miVariable = "";
+  
+// Declaración de funciones usando camelCase
+function miFuncion() {
+    // código
+}
+```
+
 ## Indentación
 
 ## Puntuación
